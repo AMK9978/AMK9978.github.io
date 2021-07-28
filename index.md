@@ -1,12 +1,12 @@
 ## Amir Mohammad Karimi
 
-<p align="center"><img align="center" src="./amir.jpeg?raw=true." alt="Amir Mohammad Karimi" title="AMK" width="900px"></p>
+<p align="center"><img align="center" src="./amir.jpeg?raw=true." alt="Amir Mohammad Karimi" title="AMK" width="900px" height="900px"></p>
 
 Prospecitve masters student, software egnineer.
-- [Download my resume]()
-- [Linkedin]()
-- [Github]()
-- [StackOverFlow]()
+- [Download my resume](./CV.pdf)
+- [Linkedin](https://linkedin.com/in/amk9978)
+- [Github](https://github.com/amk9978)
+- [StackOverFlow](https://stackoverflow.com/users/9391162/amk)
 
 
 
