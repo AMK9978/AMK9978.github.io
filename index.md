@@ -1,4 +1,12 @@
-## Amir M. Karimi
+## Amir Mohammad Karimi
+
+Prospecitve masters student, software egnineer.
+- [Download my resume]()
+- [Linkedin]()
+- [Github]()
+- [StackOverFlow]()
+
+
 
 You can use the [editor on GitHub](https://github.com/AMK9978/AMK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
