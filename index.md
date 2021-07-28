@@ -1,6 +1,6 @@
 ## Amir Mohammad Karimi
 
-<p align="center"><img align="center" src="./amir.jpeg?raw=true." alt="Amir Mohammad Karimi" title="AMK" width="900px" height="900px"></p>
+<p align="center"><img align="center" src="./amir.jpeg?raw=true." alt="Amir Mohammad Karimi" title="AMK" width="700px"></p>
 
 Prospecitve masters student, software egnineer.
 - [Download my resume](./CV.pdf)
