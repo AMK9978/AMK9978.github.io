@@ -9,7 +9,7 @@
 - [StackOverFlow](https://stackoverflow.com/users/9391162/amk)
 
 ### Expertise areas:
-  - Java SE & Spring boot
+  - Java SE & Java EE & Spring boot
   - Python & Django & Machine learning famous libraries (e.x: Pandas, Numpy, and etc)
   - PHP & Laravel
   - Interested in Linux
