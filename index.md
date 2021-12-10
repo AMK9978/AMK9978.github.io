@@ -9,5 +9,11 @@ Prospecitve masters student, software egnineer.
 - [Github](https://github.com/amk9978)
 - [StackOverFlow](https://stackoverflow.com/users/9391162/amk)
 
+### Expertise areas:
+  - Java SE & Spring boot
+  - Python & Django & Machine learning famous libraries (e.x: Pandas, Numpy, and etc)
+  - PHP & Laravel
+  - Interested in Linux
+
 ### Support or Contact
 My email: amk9978@gmail.com
