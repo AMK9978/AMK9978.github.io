@@ -2,7 +2,6 @@
 
 <p align="center"><img align="center" src="./amir.jpeg?raw=true." alt="Amir Mohammad Karimi" title="AMK" width="700px"></p>
 
-Prospecitve masters student, software egnineer.
 - [Download my resume](https://amk9978.github.io/AMK/CV.pdf)
 - [Download my CV](https://amk9978.github.io/AMK/education_CV.pdf)
 - [Linkedin](https://linkedin.com/in/amk9978)
